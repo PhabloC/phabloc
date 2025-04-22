@@ -109,4 +109,4 @@ Aqui no GitHub compartilho estudos, automações e projetos pessoais que me ajud
 
 </p>
 
-![Snake animation](https://github.com/phabloc/phabloc/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Phabloc/phabloc/blob/output/github-contribution-grid-snake.svg)
