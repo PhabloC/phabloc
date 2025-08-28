@@ -2,11 +2,11 @@
 
 **`Desenvolvedor`**
 
-Meu nome é Phablo Carvalho, tenho 26 anos e sou natural de Santana do Garambéu - MG. Sou Desenvolvedor com formação em Administração e MBA em Gestão Ágil de Projetos pela PUC Minas — o que me ajuda a unir visão de negócios com foco em entrega de valor através da tecnologia.
+Meu nome é Phablo Carvalho, tenho 26 anos e sou natural de Santana do Garambéu, MG. Sou desenvolvedor com formação em Administração e MBA em Gestão Ágil de Projetos pela PUC Minas, o que me permite combinar uma visão estratégica de negócios com a entrega de soluções tecnológicas de alto valor.
 
-Atualmente trabalho na Fasters Soluções em Tecnologia, onde atuo com desenvolvimento web, automações e soluções digitais personalizadas. Tenho experiência com WordPress (Oxygen, Bricks, Elementor etc...), integrações com APIs, automação com n8n, além de sempre buscar formas de otimizar processos e melhorar a experiência dos usuários.
+Atuo na Fasters Soluções em Tecnologia, onde desenvolvo projetos web, automações e soluções digitais personalizadas. Minha experiência abrange React, WordPress (Oxygen, Bricks, Elementor, entre outros), integrações com APIs e automações com n8n. Estou sempre buscando otimizar processos, melhorar a experiência do usuário e entregar resultados que agregam impacto.
 
-Aqui no GitHub compartilho estudos, automações e projetos pessoais que me ajudam a evoluir como dev. Fique à vontade para explorar e conectar!.
+Aqui no GitHub, compartilho projetos pessoais, estudos e automações que refletem minha evolução como desenvolvedor. Fique à vontade para explorar, contribuir ou conectar!
 
 
 ---
