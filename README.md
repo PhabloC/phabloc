@@ -2,9 +2,11 @@
 
 **`Desenvolvedor`**
 
-Meu nome é Phablo Carvalho, tenho 27 anos e sou natural de Santana do Garambéu, MG. Sou desenvolvedor com formação em Administração e MBA em Gestão Ágil de Projetos pela PUC Minas, o que me permite combinar uma visão estratégica de negócios com a entrega de soluções tecnológicas de alto valor.
+Meu nome é Phablo Carvalho, tenho 27 anos e sou natural de Santana do Garambéu, MG. Sou desenvolvedor com formação em Administração e MBA em Gestão Ágil de Projetos pela PUC Minas, o que me permite unir visão estratégica de negócios com a entrega de soluções tecnológicas de alto valor.
 
-Atuo na Fasters Soluções em Tecnologia, onde desenvolvo projetos web, automações e soluções digitais personalizadas. Minha experiência abrange React, WordPress (Oxygen, Bricks, Elementor, entre outros), integrações com APIs e automações com n8n. Estou sempre buscando otimizar processos, melhorar a experiência do usuário e entregar resultados que agregam impacto.
+Atualmente, atuo na Fasters Soluções em Tecnologia, trabalhando no desenvolvimento e na manutenção de sites e aplicações web, com forte foco em performance, segurança e experiência do usuário. Minha atuação envolve a criação de projetos web, automações e soluções digitais personalizadas, utilizando tecnologias como WordPress (Oxygen, Bricks, Elementor, entre outros), React, Next.js, Node.js, integrações com APIs e automações com n8n.
+
+Busco constantemente a melhoria contínua, tanto na qualidade do código quanto na usabilidade e no desempenho das aplicações. Utilizo metodologias ágeis para a gestão de projetos, incentivando a colaboração em equipe, entregas frequentes e rápida adaptação às necessidades do cliente. Minha experiência vai desde a criação e personalização de interfaces até a implementação de soluções mais complexas, como animações interativas, automações de processos e otimizações avançadas de desempenho.
 
 Aqui no GitHub, compartilho projetos pessoais, estudos e automações que refletem minha evolução como desenvolvedor. Fique à vontade para explorar, contribuir ou conectar!
 
