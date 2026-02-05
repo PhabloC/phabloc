@@ -101,7 +101,7 @@ Aqui no GitHub, compartilho projetos pessoais, estudos e automações que reflet
     title="n8n"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/n8n.svg"
+    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg"
 />
 <img 
     align="left" 
