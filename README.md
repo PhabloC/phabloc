@@ -100,9 +100,10 @@ Aqui no GitHub, compartilho projetos pessoais, estudos e automações que reflet
     alt="n8n"
     title="n8n"
     width="30px" 
-    style="padding-right: 10px; filter: invert(48%) sepia(79%) saturate(2476%) hue-rotate(13deg) brightness(95%) contrast(90%);" 
-    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.svg"
+    style="padding-right: 10px;" 
+    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/n8n.png"
 />
+
 <img 
     align="left" 
     alt="Next.js"
